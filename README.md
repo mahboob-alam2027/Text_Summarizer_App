@@ -19,6 +19,19 @@ The model has been fine-tuned on the **SAMSum dialogue summarization dataset** t
 
 ---
 
+## 📷 Application Preview
+
+<h2 align="center">Home Page</h2>
+<p align="center">
+    <img src="assets/home_page.png" width="400">
+</p>
+
+<h2 align="center">Summary Result</h2>
+<p align="center">
+    <img src="assets/summary_result.png" width="400">
+</p>
+
+
 ## ✨ Features
 
 * 🔹 AI-powered text summarization
